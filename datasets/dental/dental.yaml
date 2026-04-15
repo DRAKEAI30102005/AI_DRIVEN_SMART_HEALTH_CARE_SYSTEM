@@ -1,0 +1,11 @@
+path: C:/Users/Aritra Ghosh/Desktop/DoctorAI/datasets/dental
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: tooth
+  1: caries_region
+  2: impacted_tooth
+  3: periapical_lesion
+  4: restoration

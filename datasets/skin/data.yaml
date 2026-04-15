@@ -1,0 +1,10 @@
+path: datasets/skin
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: lesion
+  1: rash
+  2: acne
+  3: pigmentation

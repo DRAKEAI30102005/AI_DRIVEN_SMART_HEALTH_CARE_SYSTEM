@@ -1,0 +1,6 @@
+{
+  "name": "HealthPulse - Healthcare Super App",
+  "description": "An AI-powered healthcare ecosystem featuring doctor appointments, dental CRM, AI diagnosis, and lifestyle health tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI Diagnosis", "Appointment Booking", "Health Tracking"]
+}
